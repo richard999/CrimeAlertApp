@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>327215870394-1kj45uthcvr0dklfi02r8ns3cmoc6r1q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.327215870394-1kj45uthcvr0dklfi02r8ns3cmoc6r1q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>327215870394-1tmrn7lv78d15j4b9ntinth47lhf395f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNTlhvRcmelakSQxqgIjFk9w8bt5vGGwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>327215870394</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>crimeralert.com</string>
+	<key>PROJECT_ID</key>
+	<string>crime-alert-27b68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crime-alert-27b68.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:327215870394:ios:e55980cdf39834307c2d83</string>
+	<key>DATABASE_URL</key>
+	<string>https://crime-alert-27b68-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
