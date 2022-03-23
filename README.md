@@ -1,7 +1,7 @@
 # CrimeAlertApp
 Application intended for civillian use 
 
-before running project , just commands :
+before running project , make sure the following commands are ran :
 `````
 flutter pub get
 ``
